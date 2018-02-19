@@ -1,0 +1,16 @@
+#root {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    min-width: 250px;
+    max-width: 650px;
+    margin: 50px auto;
+}
+
+.result {
+    margin: 0 auto;
+    width: 50%;
+    font-weight: bold;
+}
+
+.form {
+    margin: 10px;
+}
