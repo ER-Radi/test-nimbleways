@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import Moment from 'moment';
 
 
-import Result from './components/Result';
-import Form from './components/Form';
+import Result from './Result';
+import Form from './Form';
 
 
 class App extends Component {
